@@ -1,4 +1,6 @@
-Be sure to click on the microphone to say a command to Alan AI.
+Be sure to click on the microphone to say a command to Alan AI. 
+You can even ask Alan to open articles.
+![2021-03-02 (2)](https://user-images.githubusercontent.com/61285232/109743198-4e154c80-7b9e-11eb-8486-8c5db5cc75a1.png)
 ![2021-03-02 (3)](https://user-images.githubusercontent.com/61285232/109742836-c2032500-7b9d-11eb-86f4-290835d45fa6.png)
 
 
