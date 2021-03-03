@@ -1,3 +1,8 @@
+Be sure to click on the microphone to say a command to Alan AI.
+![2021-03-02 (3)](https://user-images.githubusercontent.com/61285232/109742836-c2032500-7b9d-11eb-86f4-290835d45fa6.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
